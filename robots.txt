@@ -1,0 +1,8 @@
+
+User-agent: *
+Allow: /
+Crawl-delay: 10
+# Sitemap pointant vers votre site GitHub Pages
+Sitemap: https://augustin-beya-mwemedi.github.io/sitemap.xml
+Host: augustin-beya-mwemedi.github.io
+
